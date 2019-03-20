@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="mavenTriggerTest">
+    <test name="mavenTestNGTrigger">
+        <classes>
+            <class name="com.bankbazaar.automation.SampleTest"/>
+            <class name="com.bankbazaar.automation.SeleniumTest"/>
+        </classes>
+    </test>
+</suite>
